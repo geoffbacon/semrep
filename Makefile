@@ -1,7 +1,7 @@
 lint:
 	@echo "Running pylint"
-	pylint evaluate
+	pylint semrep
 
 test:
 	@echo "Running tests"
-	py.test evaluate
+	py.test semrep
