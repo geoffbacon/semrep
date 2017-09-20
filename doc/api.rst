@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: semrep
 
 .. autosummary::
    :template: class.rst
