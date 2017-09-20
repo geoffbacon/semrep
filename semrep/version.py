@@ -26,23 +26,13 @@ CLASSIFIERS = ["Development Status :: 3 - Alpha",
                "Topic :: Scientific/Engineering"]
 
 # Description should be a one-liner:
-description = "semrep: a template for small scientific Python projects"
+description = "semrep: estimating and assessing semantic representations"
 # Long description will go up on the pypi page
 long_description = """
 
-Shablona
+Semrep
 ========
-Shablona is a template project for small scientific Python projects.
-
-It contains software implementations of an analysis of some simple data, but
-more importantly, it contains infrastructure for testing, documentation,
-continuous integration and deployment, which can be easily adapted
-to use in other projects.
-
-To get started using these components in your own software, please go to the
-repository README_.
-
-.. _README: https://github.com/uwescience/semrep/blob/master/README.md
+Semrep is a project for learning and assessing semantic representations.
 
 License
 =======
@@ -52,20 +42,19 @@ for usage, and a DISCLAIMER OF ALL WARRANTIES.
 
 All trademarks referenced herein are property of their respective holders.
 
-Copyright (c) 2015--, Ariel Rokem, The University of Washington
-eScience Institute.
+Copyright (c) 2017--, Geoff Bacon.
 """
 
 NAME = "semrep"
-MAINTAINER = "Ariel Rokem"
-MAINTAINER_EMAIL = "arokem@gmail.com"
+MAINTAINER = "Geoff Bacon"
+MAINTAINER_EMAIL = "bacon@berkeley.edu"
 DESCRIPTION = description
 LONG_DESCRIPTION = long_description
-URL = "http://github.com/uwescience/semrep"
+URL = "http://github.com/geoffbacon/semrep"
 DOWNLOAD_URL = ""
 LICENSE = "MIT"
-AUTHOR = "Ariel Rokem"
-AUTHOR_EMAIL = "arokem@gmail.com"
+AUTHOR = "Geoff Bacon"
+AUTHOR_EMAIL = "bacon@berkeley.edu"
 PLATFORMS = "OS Independent"
 MAJOR = _version_major
 MINOR = _version_minor
