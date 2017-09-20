@@ -1,0 +1,15 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS
+*.DS_Store
+
+# Test
+.cache/
+
+# Large files
+scripts/*_embeddings
