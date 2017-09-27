@@ -12,4 +12,4 @@ __pycache__/
 .cache/
 
 # Large files
-scripts/*_embeddings
+semrep/data/embeddings/*
